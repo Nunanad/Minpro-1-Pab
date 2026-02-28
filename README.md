@@ -81,6 +81,17 @@ Aplikasi ini dibuat untuk:
 ---
 ## Dokumentasi
 
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/01025d03-4d31-412f-9a23-d82f91395526" />
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/8ef783ac-e5c6-45fe-b621-fc569c667867" />
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/835c265c-da0e-4e2a-8a30-9115014dda48" />
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/de2d9ea5-f7f5-4db0-bd9a-71cee99d3316" />
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/a451f880-85ec-4fd8-b6de-10a168b7b0be" />
+
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/b81dfe0b-31af-4a82-a416-e17a6f78e143" />
 
 
 
